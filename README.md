@@ -1,2 +1,36 @@
-# Crime-Analytics-Visualization-of-Incident-Reports
-Crime Analytics is a data visualization project focused on analyzing incident reports to uncover crime patterns and trends. It provides interactive dashboards that highlight crime distribution by time, location, and type, helping users gain actionable insights for analysis, reporting, and informed decision-making.
+# Crime Analytics: Visualization of Incident Reports
+
+This repository contains a data analytics and visualization project focused on analyzing crime incident reports. The project aims to uncover meaningful patterns, trends, and insights from crime data through clear and interactive visualizations.
+
+## Project Overview
+The Crime Analytics dashboard helps users understand how crime incidents vary across time, location, and category. By transforming raw incident data into structured visuals, the project supports data-driven analysis and better interpretation of public safety trends.
+
+## Key Features
+Analysis of crime incidents by type and category
+Time-based trends including daily, monthly, and yearly patterns
+Location-based crime distribution analysis
+Interactive filters for deeper exploration of data
+Clear and intuitive visualizations for easy understanding
+
+## Tools and Technologies
+Power BI
+Data cleaning and transformation
+Data modeling and calculated measures
+Interactive charts and dashboards
+
+## Files in This Repository
+Crime Analytics dashboard file (Power BI)
+
+## How to Use
+Download the dashboard file from this repository.
+Open it using Power BI Desktop.
+Use filters and visuals to explore crime trends and insights.
+
+## Use Case
+This project is suitable for learning data analytics, practicing data visualization, and showcasing analytical skills in a portfolio or academic setting.
+
+## Author
+Nancy
+
+
+
